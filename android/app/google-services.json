@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "131973341099",
+    "firebase_url": "https://gita-b2955-default-rtdb.firebaseio.com",
+    "project_id": "gita-b2955",
+    "storage_bucket": "gita-b2955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131973341099:android:6495a3a4a79e12598cfcee",
+        "android_client_info": {
+          "package_name": "uz.gita.dars11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131973341099-r5gn037s1k7hhn99aqeikgu3ehc1fbcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB85bcVBpS5ZiEaJUHjTK-bnTU8e7U0who"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131973341099-o6o1dgqranev02m0biva17r1t49o1pbt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "131973341099-09mjiu3nftk5353875brdjqu8e81l86d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uz.gita.darsDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
